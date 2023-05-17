@@ -1,15 +1,17 @@
 # Wheel Rim Classification with Transfer Learning and Image Processing
 
 ## Introduction
-This repository contains the actual training code (`Wheel Rim Classification.ipynb`) used to develop a model that can classify wheel rims with extraordinary accuracy. The model leverages the power of TensorFlow and Keras, alongside transfer learning from VGG16 and advanced image processing techniques, to achieve a remarkable **100% ACCURACY** on a dataset of images containing 16 different types of wheel rims.
+This repository contains the actual training code (`Wheel Rim Classification.ipynb`) used to develop a model for classifying wheel rims with high accuracy. The model utilizes the power of Keras (TensorFlow) along with transfer learning from VGG16 and advanced image processing techniques to achieve impressive results on a dataset of images containing 16 different types of wheel rims.
 
-It is important to note that this code was deployed for Toyota and is not intended for commercial use or distribution. The purpose of this project is to showcase my exceptional image processing, augmentation, and modeling skills to potential employers.
+Please note that this code was developed for Toyota and is not intended for commercial use or distribution. The purpose of this project is to showcase my image processing, augmentation, and modeling skills to potential employers.
 
 ## Model Performance
-The model achieved an astounding **100% ACCURACY** in classifying **16 different types of wheel rims**. This unparalleled accuracy was accomplished by utilizing cutting-edge image processing techniques to meticulously extract the wheel rims from the images, and employing transfer learning from VGG16, implemented using TensorFlow and Keras. The model processes a staggering 4,000 wheel rims every day, equivalent to 12,000 a month, without a single false negative or false positive. Such an extraordinary level of accuracy stands as a true testament to the unparalleled power of transfer learning and image processing in elevating the performance of computer vision models.
+The model achieved a notable **100% ACCURACY** in classifying **16 different types of wheel rims**. This achievement was accomplished by employing cutting-edge image processing techniques to extract the wheel rims from the images and leveraging transfer learning from VGG16, implemented using Keras. The model demonstrates consistent performance, processing 4,000 wheel rims every day (equivalent to 12,000 a month) without any false negatives or false positives. This highlights the effectiveness of transfer learning and image processing in enhancing computer vision models.
 
 ## Usage
-This repository contains the training code and serves as a testament to the remarkable capabilities of TensorFlow, Keras, and advanced image processing techniques. The included notebook (`Wheel Rim Classification.ipynb`) can be used as a reference for similar projects, providing insights into the state-of-the-art methodologies employed. However, it is important to note that this repository is not intended as a step-by-step guide for developing a similar model.
+This repository contains the training code, serving as a reference for similar projects and showcasing the capabilities of Keras (TensorFlow) and advanced image processing techniques. The included notebook (`Wheel Rim Classification.ipynb`) provides insights into the methodologies employed. However, please note that this repository does not provide a step-by-step guide for developing a similar model.
+
+Please note that this repository is not intended for use as a standalone program, as it was specifically tailored to address the unique requirements of the wheel rim classification task for Toyota Turkey.
 
 ## Acknowledgments
-This groundbreaking project was exclusively developed by Bahadır ÜNGÖR for Toyota Turkey, effectively showcasing my unparalleled skills and expertise in the fields of computer vision and deep learning. By leveraging TensorFlow, Keras, and advanced image processing techniques, I have achieved a remarkable milestone of 100% accuracy, setting new benchmarks in wheel rim classification.
+This project was exclusively developed by Bahadır ÜNGÖR for Toyota Turkey, demonstrating expertise in computer vision and deep learning. By leveraging Keras (TensorFlow) and advanced image processing techniques, a milestone of 100% accuracy was achieved, setting new benchmarks in wheel rim classification.
