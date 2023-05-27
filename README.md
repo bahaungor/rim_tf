@@ -1,5 +1,5 @@
 # Wheel Rim Classification with Transfer Learning and Image Processing
-The origina CNN model used by Toyota Motor Turkey that classifies 16 types of wheel rims with 100% accuracy.
+The original CNN model used by Toyota Motor Turkey that classifies 16 types of wheel rims with 100% accuracy.
 ![Image of the project](./images/project-image.png)
 
 # Table Of Content
