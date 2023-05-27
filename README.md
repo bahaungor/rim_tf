@@ -111,7 +111,10 @@ This repository contains the training code, serving as a reference for similar p
 Please note that this repository is not intended for use as a standalone program, as it was specifically tailored to address the unique requirements of the wheel rim classification task for Toyota Turkey.
 
 # Model Performance
-The model achieved a notable 100% ACCURACY in classifying 16 different types of wheel rims. This achievement was accomplished by employing cutting-edge image processing techniques to extract the wheel rims from the images and leveraging transfer learning from VGG16, implemented using Keras. The model demonstrates consistent performance, processing 4,000 wheel rims every day (equivalent to 12,000 a month) without any false negatives or false positives. This highlights the effectiveness of transfer learning and image processing in enhancing computer vision models.
+The model achieved a notable **100% ACCURACY in classifying 16 different types of wheel rims.**
+
+This achievement was accomplished by employing cutting-edge image processing techniques to extract the wheel rims from the images and leveraging transfer learning from VGG16, implemented using Keras. The model demonstrates consistent performance, processing 4,000 wheel rims every day (equivalent to 12,000 a month) without any false negatives or false positives. This highlights the effectiveness of transfer learning and image processing in enhancing computer vision models.
+
 ![Image of the project](./images/project-image-2.png)
 ![Image of the project](./images/project-image-3.png)
 
